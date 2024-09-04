@@ -14,6 +14,4 @@ This repository contains the solution for the AtliQ Motors India EV/Hybrid Marke
 - **Additional Research:** Incorporated external data sources to support recommendations and provide a holistic view of the market.
 - **Outcome:** The analysis highlights key trends, opportunities, and challenges in the Indian EV/Hybrid market, offering strategic recommendations for AtliQ Motors' entry into the market.
 
----
 
-You can adjust the details as needed based on the specific tools you used and the focus of your analysis. Good luck with your submission!
